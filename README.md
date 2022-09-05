@@ -1,5 +1,5 @@
 ```python
-# Assign a numeric value
+# Assign a numeric value (Changement pour le PULL REQUEST)
 number = 70
 
 # Check the is more than 70 or not
